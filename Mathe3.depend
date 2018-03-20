@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1420983884 source:e:\micha\studium\codeblocks\mathe3\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<string>
+	"Misc.h"
+
+1420156176 source:e:\micha\studium\codeblocks\mathe3\fehlerrechner.cpp
+	"Fehlerrechner.h"
+	<iostream>
+	<cmath>
+
+1420155836 e:\micha\studium\codeblocks\mathe3\fehlerrechner.h
+	<iostream>
+
+1420207611 source:e:\micha\studium\codeblocks\mathe3\fixpunktbestimmer.cpp
+	"Fixpunktbestimmer.h"
+	<iostream>
+	<cmath>
+
+1420207438 e:\micha\studium\codeblocks\mathe3\fixpunktbestimmer.h
+
+1420983748 source:e:\micha\studium\codeblocks\mathe3\misc.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Matrix.h"
+	"Vektor.h"
+
+1420939672 e:\micha\studium\codeblocks\mathe3\misc.h
+
+1420941661 source:e:\micha\studium\codeblocks\mathe3\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<math.h>
+	<limits>
+	<stdexcept>
+
+1420933134 e:\micha\studium\codeblocks\mathe3\matrix.h
+	<iostream>
+	<string>
+	<stdexcept>
+
+1420941010 source:e:\micha\studium\codeblocks\mathe3\vektor.cpp
+	"Vektor.h"
+	<iostream>
+	<stdexcept>
+	<cmath>
+
+1420559105 e:\micha\studium\codeblocks\mathe3\vektor.h
+	<iostream>
+
+1444057210 source:f:\micha\develop\codeblocks\projekte\mathe3\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<string>
+	"Misc.h"
+
+1420939672 f:\micha\develop\codeblocks\projekte\mathe3\misc.h
+
+1421510628 source:f:\micha\develop\codeblocks\projekte\mathe3\matrix.cpp
+	"Matrix.h"
+	<iostream>
+	<math.h>
+	<limits>
+	<stdexcept>
+
+1420933134 f:\micha\develop\codeblocks\projekte\mathe3\matrix.h
+	<iostream>
+	<string>
+	<stdexcept>
+
+1453571023 source:f:\micha\develop\codeblocks\projekte\mathe3\misc.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Matrix.h"
+	"Vektor.h"
+
+1420559105 f:\micha\develop\codeblocks\projekte\mathe3\vektor.h
+	<iostream>
+
+1420941010 source:f:\micha\develop\codeblocks\projekte\mathe3\vektor.cpp
+	"Vektor.h"
+	<iostream>
+	<stdexcept>
+	<cmath>
+
